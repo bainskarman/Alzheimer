@@ -3,12 +3,6 @@
 ## Overview
 This repository contains the code and documentation for a project aimed at detecting Alzheimer’s disease at an early stage using the Open Access Series of Imaging Studies (OASIS) brain dataset. The project utilizes machine learning techniques, particularly Convolutional Neural Networks (CNN) and the VGG16 model, to classify brain MRI images and identify patterns associated with Alzheimer's disease.
 
-## Contributors
-- Devender
-- Jagpreet Singh
-- Karman Singh Bains
-- Manpreet Singh Gill
-
 ## Abstract
 Alzheimer’s is a nervous system disease that affects human memory and thinking abilities. Detecting it early can slow its progression. This project utilizes MRI scans from the OASIS dataset to detect structural changes in the brain associated with Alzheimer’s disease.
 
